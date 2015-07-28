@@ -1,0 +1,15 @@
+if TARGET_CONNECT_E10
+
+config SYS_BOARD
+	default "connect-e10"
+
+config SYS_VENDOR
+	default "synapse"
+
+config SYS_SOC
+	default "at91"
+
+config SYS_CONFIG_NAME
+	default "connect-e10"
+
+endif

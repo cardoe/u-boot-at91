@@ -1,0 +1,6 @@
+Synapse Wireless SNAP Connect E10
+M:	Doug Goldstein <cardoe@cardoe.com>
+S:	Maintained
+F:	board/atmel/connect-e10/
+F:	include/configs/connect-e10.h
+F:	configs/connect-e10_defconfig
